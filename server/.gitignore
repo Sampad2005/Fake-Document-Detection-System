@@ -1,2 +1,17 @@
-node_modules
+# Node modules
+node_modules/
+
+# Environment file
 .env
+
+# Google service account key
+config/*.json
+
+# Uploads folder (stored images)
+uploads/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store

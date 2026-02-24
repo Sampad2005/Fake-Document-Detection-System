@@ -6,9 +6,8 @@ node_modules/
 
 # Google service account key
 config/*.json
-
 # Uploads folder (stored images)
-uploads/
+uploads/fake-document-87715254bec4
 
 # Logs
 *.log
